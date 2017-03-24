@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+/EDSDK/Dll
+/EDSDK_64/Dll
+/Projects/BINARIES
+*.db
+*.opendb
+/EDSDK_64
