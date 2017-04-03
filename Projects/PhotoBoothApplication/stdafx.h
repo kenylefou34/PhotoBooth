@@ -40,6 +40,8 @@
 
 
 #include <afxdhtml.h>        // Boîtes de dialogue HTML
+#include <afxdisp.h>
+#include <afxdisp.h>
 
 
 #ifdef _UNICODE

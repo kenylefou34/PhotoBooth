@@ -5,6 +5,7 @@
 #include "stdafx.h"
 #include "PhotoBoothApplication.h"
 #include "PhotoBoothApplicationDlg.h"
+#include "CVideoControl.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW

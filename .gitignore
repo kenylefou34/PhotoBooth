@@ -29,3 +29,5 @@
 *.db
 *.opendb
 /EDSDK_64
+/Projects/PhotoBoothApplication/Debug
+/Projects/PhotoBoothApplication/ipch/PHOTOBOOTHAPPLICATION-612c7848

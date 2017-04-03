@@ -1,9 +1,8 @@
 
 // PhotoBoothApplicationDlg.h : fichier d'en-tête
 //
-
 #pragma once
-
+#include "CVideoControl.h"
 
 // boîte de dialogue CPhotoBoothApplicationDlg
 class CPhotoBoothApplicationDlg : public CDHtmlDialog
@@ -33,4 +32,6 @@ protected:
 	afx_msg HCURSOR OnQueryDragIcon();
 	DECLARE_MESSAGE_MAP()
 	DECLARE_DHTML_EVENT_MAP()
+
+	CVideoControl m_CVideoControl;
 };
